@@ -1,0 +1,22 @@
+{
+    "textures" : [
+        { "id" : "assets/sprites/cow.png" },
+        { "id" : "assets/sprites/cowboy.png" }
+    ],
+    "shaders" : [
+        { "ps_id":"assets/shaders/circleout.glsl" },
+        { "ps_id":"assets/shaders/sepia.glsl" },
+        { "ps_id":"assets/shaders/vignette.glsl" }
+    ],
+    "fonts" : [
+        { "id" : "assets/04b03.fnt" }
+    ],
+    "sounds" : [
+    ],
+    "text" : [
+    ],
+    "json" : [
+        { "id" : "assets/sprites/cow.json" },
+        { "id" : "assets/sprites/cowboy.json" }
+    ]
+}
